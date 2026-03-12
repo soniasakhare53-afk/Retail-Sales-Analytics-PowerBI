@@ -22,7 +22,7 @@ Key objectives of this dashboard include:
 
 The overview page provides a high-level summary of key business metrics including total sales, total orders, total customers, and average order value.
 
-![Overview Dashboard](overview_dashboard.png)
+![Overview Dashboard](overview.png)
 
 ---
 
